@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TravelPlanner</string>
+    <string name="title_activity_maps">Travel Maps</string>
+    <string name="search">Search</string>
+    <string name="current_location">Current Location</string>
+    <string name="start">Start</string>
+    <string name="start_location">Start Location</string>
+    <string name="destination">Destination</string>
+    <string name="process">Process</string>
+    <string name="stops">Stops</string>
+    <string name="stop">Stop</string>
+    <string name="plan">Travel Planner</string>
+    <string name="add_stop">Add Stop</string>
+    <string name="remove">x</string>
+    <string name="google_maps_key">AIzaSyCZJmHTcPm5hF8X3vdf4upbyQ0NWHBIgIU</string>
+    <string name="permission_rationale_location">Access to the address service is required to identify your current address on the map.</string>
+</resources>
